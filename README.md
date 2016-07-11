@@ -20,3 +20,5 @@
 - [LodLive](https://github.com/dvcama/LodLive)
 - [DBpedia](http://dbpedia.org)
 - laptops with browser and internet connection for the participants
+
+Copy the [slides at Google Docs](https://docs.google.com/presentation/d/1KoKD2cWPxBkSaLEi9GinlhackmLT6_XaSZv02veKJUE/edit?usp=sharing).
