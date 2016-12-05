@@ -21,4 +21,4 @@
 - [DBpedia](http://dbpedia.org)
 - laptops with browser and internet connection for the participants
 
-Copy the [slides at Google Docs](https://docs.google.com/presentation/d/1KoKD2cWPxBkSaLEi9GinlhackmLT6_XaSZv02veKJUE/edit?usp=sharing).
+Copy the [slides at Google Docs](https://docs.google.com/presentation/d/1KoKD2cWPxBkSaLEi9GinlhackmLT6_XaSZv02veKJUE/edit?usp=sharing). ([German version](https://docs.google.com/presentation/d/1iHVMlwNdPVDf6K6s2yc5XCtrztFgWbhXHL62cdyVoZI/edit?usp=sharing))
